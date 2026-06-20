@@ -24,3 +24,9 @@ dist/
 build/
 *.pptx
 *.jpg
+*.png
+*.pdf
+*.mp4
+*.avi
+*.mov
+*.mp3
