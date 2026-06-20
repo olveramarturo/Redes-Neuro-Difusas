@@ -1,0 +1,83 @@
+la universidad autónoma de guadalajara power by arizona state university
+0:1111 secondsuna de las razones del éxito de los sistemas de cursos en países como japón es que no fueron utilizados para reemplazar automatismos basados en
+0:1919 secondscálculo clásico que ya operaban exitosamente sino que fueron utilizados en una serie de aplicaciones donde usualmente se depende de un ser humano
+0:2828 secondscon amplio conocimiento experto sobre un tema en diversos campos del arte la ciencia y
+0:3838 secondsla técnica la toma de decisión y el aprendizaje son un asunto principalmente fijado en la experiencia y difícilmente
+0:4646 secondsse puede mapear o modelar con el apoyo de las matemáticas tradicionales por ejemplo el diagnóstico médico de
+0:5353 secondsenfermedades recae fuertemente en el juicio y la experiencia de un médico o en un proceso de cosecha manual de frutos donde la fecha de consumo final
+1:031 minute, 3 secondses variable la experiencia el tacto y el olfato de un cosechador pueden ser claves para determinar el momento
+1:101 minute, 10 secondspreciso en el que una fruta puede cortarse considerando en que será transportada almacenada y consumida en un periodo
+1:191 minute, 19 secondsvariable de tiempo pensando en el desarrollo de
+1:301 minute, 30 secondsinteligencia artificial para aplicaciones el uso de sistemas difusos para representar el conocimiento experto puede ser de una gran utilidad si lo que
+1:391 minute, 39 secondsse pretende es automatizar procesos que dependen de un experto humano
+1:481 minute, 48 secondsuno de los retos más importantes para realizar la representación del conocimiento a través de un sistema difuso es poder establecer cuáles son
+1:561 minute, 56 secondslos aspectos a representar así como su estructura y complejidad
+2:052 minutes, 5 secondsa lo largo de las últimas décadas los sistemas difusos han sido ampliamente utilizados en un gran número de aplicaciones
+2:132 minutes, 13 secondsen la imagen podemos observar algunos ejemplos de aplicaciones comunes de la lógica difusa que prácticamente
+2:202 minutes, 20 secondscualquier consumidor puede identificar destacándose las aplicaciones en electrodomésticos equipos biomédicos
+2:282 minutes, 28 secondsfotografía profesional control industrial de procesos aunque por otro lado también hay cientos de aplicaciones
+2:352 minutes, 35 secondsde estos sistemas que no son evidentes al ojo del consumidor promedio pero que tienen un gran impacto en la vida diaria con sistemas que van desde el control de
+2:442 minutes, 44 secondsfrenado abs hasta sistemas de iluminación y de distribución eléctrica
+2:542 minutes, 54 secondsal igual que la lógica clásica en la lógica difusa tienen prevalencia las reglas de inferencia modos pons y
+3:013 minutes, 1 secondmóstoles en el modo exponen si a es cierto
+3:083 minutes, 8 secondsentonces ver es cierto cuando a es cierto mientras que en el módulo lens bajo la
+3:173 minutes, 17 secondsestructura si hay cierta entonces ve es cierta y se da la situación de que b es falso entonces esto implicaría que a
+3:263 minutes, 26 secondstambién es falso dicho de otra manera ambos modos establecen un grado de verdad bidireccional entre las partes
+3:333 minutes, 33 secondsantecedentes y consecuentes de una regla sin embargo
+3:413 minutes, 41 secondsresaltando la principal diferencia entre la lógica aristotélica y la lógica difusa donde en la primera hay una
+3:493 minutes, 49 secondsrespuesta a todo o nada en cuanto a verdad o sea las cosas son verdaderas o falsas únicamente en la lógica difusa
+3:573 minutes, 57 secondshay diferentes grados de verdad por tanto los procesos inferencial es no
+4:044 minutes, 4 secondsson absolutos aquí las cosas son tan verdaderas o tan falsas como lo sea el propio grado de verdad de las partes
+4:134 minutes, 13 secondsantecedentes y consecuentes del problema en turno una manera de representación gráfica de
+4:224 minutes, 22 secondsun sistema difuso son las redes redes que al ser un tipo de red neuronal por estructura se conocen usualmente como
+4:304 minutes, 30 secondsred de neurosis usas las entradas a una red de difusión generalmente en números dentro de un rango específico mismos que
+4:384 minutes, 38 secondsson procesados en capas internas por el sistema inferencial y de reglas de la propia red a esto se le conoce
+4:454 minutes, 45 secondsusualmente como edificación de igual manera las redes neuronas incorporan un esquema de normalización y ponderación
+4:534 minutes, 53 secondspara producir la salida unificada de la red misma que está expresada en los mismos términos de la variable del
+5:015 minutes, 1 secondentorno físico a este proceso mediante el cual se produce una salida de la red se le denomina de edificación
+5:135 minutes, 13 secondslas redes neuronales artificiales tienen una variedad muy amplia de estructuras y configuraciones y la selección y configuración de estas depende en gran
+5:225 minutes, 22 secondsmedida del tipo de aplicación para el que se vayan a utilizar desde el punto de vista arquitectónico y
+5:325 minutes, 32 secondsfuncional las redes neuronas son de hecho un tipo de red neuronal pero desde el punto de vista semántico las redes
+5:395 minutes, 39 secondsneuronas son la representación gráfica de una estructura de inferencia lógica en este mismo sentido en el contexto de
+5:485 minutes, 48 secondslas redes neuronales artificiales no se hace énfasis en encontrarle sentido a la configuración paramétrica de las capas
+5:555 minutes, 55 secondsinternas de la red por el contrario en una red neurosis usa cada parte de la red tiene una traducción literal de su
+6:036 minutes, 3 secondsfuncionalidad a un marco de referencia difuso de esta manera esquemas de caja negra en
+6:116 minutes, 11 secondsredes neuronales artificiales son más comunes y lógicos en casos donde la información a procesar es significativamente más grande y la
+6:196 minutes, 19 secondsprioridad la tiene la operatividad mientras que los sistemas neuro difusos
+6:266 minutes, 26 secondsson recomendables para problemas de pequeña y mediana escala por su orden y capacidad para ser auditados e
+6:346 minutes, 34 secondsinterpretados las redes neurosis usas llamadas de primera generación fueron propuestas por
+6:416 minutes, 41 secondsibrahim mandan y y consiste en de redes que tienen las
+6:486 minutes, 48 secondsentradas y las salidas estructuras de funciones de pertenencia difusa para realizar la interpretación e interacción
+6:576 minutes, 57 secondscon su entorno por su parte las redes de euro difusas
+7:047 minutes, 4 secondsde segunda generación fueron propuestas por tomohiro takagi y metió su gen o
+7:117 minutes, 11 secondsestas redes tienen una entrada que involucra funciones de pertenencia difusas pero incluyen como motor de inferencia un esquema de reglas que
+7:207 minutes, 20 secondspermite la toma articulada y gradual de decisiones al respecto como lectura complementaria
+7:297 minutes, 29 secondsse recomienda la lectura del capítulo 4 del libro neuro fusil and soft computing de yang
+7:397 minutes, 39 secondsen el siguiente gráfico observamos la representación de una red de una entrada y una salida del tipo takagi su gen o de
+7:467 minutes, 46 secondsorden 0 el cual utilizaremos para intentar sintetizar de forma holística un par de curvas en el gráfico de la red
+7:557 minutes, 55 secondspodemos identificar que contamos con tres funciones de pertenencia y tres reglas cada función de pertenencia es
+8:028 minutes, 2 secondsuna gaudiana normalizada que cuenta con dos parámetros media y desviación o ancho de campana y para cada regla
+8:118 minutes, 11 secondscontamos a su vez con tres parámetros en esta imagen podemos observar el
+8:188 minutes, 18 secondscomportamiento de dos curvas una es de la temperatura y la otra corresponde a la precipitación pluvial promedio de en
+8:258 minutes, 25 secondsguadalajara entre los años 1971 y 1998
+8:328 minutes, 32 secondsla curva conformada por la línea roja representa la temperatura promedio en grados centígrados mientras que la otra
+8:398 minutes, 39 secondsque está conformada por barras azules representa la precipitación pluvial la idea central de este ejercicio es
+8:478 minutes, 47 secondsconfigurar los parámetros de la red para primero obtener en la salida una curva y luego la otra
+8:598 minutes, 59 secondsuna recomendación inicial para la configuración manual de las funciones de pertenencia de la entrada de la red es ubicar las tres funciones de pertenencia
+9:089 minutes, 8 secondsgauss jana de la entrada como equidistantes con media 0 6 y 12 esto considerando que el universo de discurso
+9:189 minutes, 18 secondsdiscurre entre 0 y 12 meses para este ejemplo particular se recomienda una elección de desviaciones estándar que
+9:249 minutes, 24 secondspermitan una intersección entre funciones al 50% del grado de pertenencia tal como se muestra en la
+9:329 minutes, 32 secondsgráfica en resumen la red de una entrada y una salida se puede codificar a partir de
+9:409 minutes, 40 secondslos siguientes pasos se definen las variables medias de inversiones y pesos se define el paso de la variable x y h
+9:499 minutes, 49 secondsse define n como el valor total de ciclos se abre el ciclo for de igual a 1
+9:559 minutes, 55 secondshasta n se establece x como la razón xd y / h
+10:0210 minutes, 2 secondsse evalúa cada función de pertenencia se obtiene la inferencia de cada regla y es igual a la sumatoria de las diferencias
+10:1110 minutes, 11 secondsentre la sumatoria de las reglas activadas se cierre el ciclo for y se grafica x contra g
+10:2210 minutes, 22 secondsen la presente diapositiva se presenta el mismo algoritmo codificado en matlab octave el cual se puede probar
+10:2910 minutes, 29 secondsdirectamente sobre la plataforma para este ejercicio particular donde la idea es lograr generar las curvas de
+10:3710 minutes, 37 secondstemperatura y precipitación la recomendación es probar este código y realizar experimentos para los valores de las medias de
+10:4510 minutes, 45 secondsinversiones y pesos que se encuentran en la definición de variables en resumen esta actividad consiste en la
+10:5410 minutes, 54 secondsconstrucción de dos redes esta calle sucre no de una entrada y una salida de orden cero para sintetizar la curva de
+11:0211 minutes, 2 secondstemperatura no al promedio y precipitación anual promedio en la zona metropolitana de guadalajara a partir de
+11:0911 minutes, 9 secondsla gráfica presentada mediante el ajuste de los parámetros de la red de manera manual para así generar
+11:1511 minutes, 15 secondslas curvas deseada utilizando el código de la red neuro difusa
