@@ -19,8 +19,6 @@ Reglas Takagi-Sugeno orden 0 (salida constante):
 """
 
 import numpy as np
-import matplotlib
-matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 # ─────────────────────────────────────────────
@@ -108,8 +106,7 @@ ax1.axhspan(180, 200, alpha=0.08, color='red',    label='Crisis (≥180)')
 ax1.legend(fontsize=9, loc='upper left')
 ax1.grid(True, linestyle='--', alpha=0.4)
 fig1.tight_layout()
-fig1.savefig('/sessions/stoic-pensive-bell/mnt/outputs/grafica1_entrada.png', dpi=150, bbox_inches='tight')
-plt.close(fig1)
+fig1.savefig('grafica1_entrada.png', dpi=150, bbox_inches='tight')
 print("Gráfica 1 guardada")
 
 # ─────────────────────────────────────────────
@@ -131,8 +128,7 @@ for yi, label, col in zip([1.5, 4.0, 6.5, 9.0],
 ax2.legend(fontsize=9, loc='upper left')
 ax2.grid(True, linestyle='--', alpha=0.4)
 fig2.tight_layout()
-fig2.savefig('/sessions/stoic-pensive-bell/mnt/outputs/grafica2_salida.png', dpi=150, bbox_inches='tight')
-plt.close(fig2)
+fig2.savefig('grafica2_salida.png', dpi=150, bbox_inches='tight')
 print("Gráfica 2 guardada")
 
 # ─────────────────────────────────────────────
@@ -167,8 +163,7 @@ for p, const, color in zip(picos, constantes, colores):
                  ha='center', fontsize=9, color=color, fontweight='bold')
 
 fig3.tight_layout()
-fig3.savefig('/sessions/stoic-pensive-bell/mnt/outputs/grafica3_conjuntos.png', dpi=150, bbox_inches='tight')
-plt.close(fig3)
+fig3.savefig('grafica3_conjuntos.png', dpi=150, bbox_inches='tight')
 print("Gráfica 3 guardada")
 
 # ─────────────────────────────────────────────
@@ -181,3 +176,8 @@ for p in [100, 128, 150, 185]:
           f"| μ: Normal={w[0,0]:.2f}  Elevada={w[0,1]:.2f}  "
           f"Alta={w[0,2]:.2f}  MuyAlta={w[0,3]:.2f}")
 print("\nScript completo.")
+
+# ─────────────────────────────────────────────
+# 8. MOSTRAR LAS TRES GRÁFICAS EN PANTALLA
+# ─────────────────────────────────────────────
+plt.show()
