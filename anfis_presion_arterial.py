@@ -84,6 +84,8 @@ def anfis_ts0(presion):
 # ─────────────────────────────────────────────
 # 3. UNIVERSO DE DISCURSO
 # ─────────────────────────────────────────────
+input("Acomoda las ventanas donde desees y presiona Enter para generar las gráficas...")
+
 x_universe = np.linspace(80, 200, 500)
 riesgo_out, W_all, W_norm_all = anfis_ts0(x_universe)
 
